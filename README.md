@@ -61,9 +61,12 @@ O sistema realiza as seguintes etapas:
 
 ## ▶️ Exemplo de Saída
 
-1. Carrega os dados de telemetria a partir de um arquivo CSV
+# 1. Carrega os dados de telemetria a partir de um arquivo CSV
+
 ![Carregamento dos dados](res/img_reading_data.png)
-2. Define a função de validação
+# 2. Define a função de validação
+
 ![Função de validação](res/img_data_process_function.png)
-3. Aplica a validação e apresenta o resultado
+# 3. Aplica a validação e apresenta o resultado
+
 ![Resultado da execução](res/img_analyzing_real_data.png)
