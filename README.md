@@ -64,6 +64,6 @@ O sistema realiza as seguintes etapas:
 1. Carrega os dados de telemetria a partir de um arquivo CSV
 ![img.png](res/img.png)
 2. Define a função de validação
-![img_1.png](res/img_1.png)
+![img.png](res/img2.png)
 3. Aplica a validação e apresenta o resultado
-![img_2.png](res/img_2.png)
+![img.png](res/img3.png)
